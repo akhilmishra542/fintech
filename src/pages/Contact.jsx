@@ -12,13 +12,13 @@ const Contact = () => {
           <div className="bg-green-100 dark:bg-green-900 p-6 rounded-md shadow">
             <Mail className="h-8 w-8 mx-auto text-green-800 mb-2" />
             <p className="text-green-800 dark:text-green-100">
-              support@fintrack.com
+              itakhilmishra@gmail.com
             </p>
           </div>
           <div className="bg-green-100 dark:bg-green-900 p-6 rounded-md shadow">
             <Phone className="h-8 w-8 mx-auto text-green-800 mb-2" />
             <p className="text-green-800 dark:text-green-100">
-              +91 98765 43210
+              +91 7749928748
             </p>
           </div>
           <div className="bg-green-100 dark:bg-green-900 p-6 rounded-md shadow">
